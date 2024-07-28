@@ -3,7 +3,11 @@
 
 This project analyzes Olympic data to generate insights and visualizations. It includes a Streamlit web application for interactive data exploration.
 
+## Dataset
 
+```bash
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+```
 
 ## Features
 
@@ -23,16 +27,11 @@ This project analyzes Olympic data to generate insights and visualizations. It i
   - line charts and heatmaps.
 
 ## Installation
-
 Install my-project
-
 ```bash
    git clone https://github.com/sonalrajsr/Olympic-Data-Analysis.git
-
 ```
-    
 ## Environment Setup
-
 ## On Windows
 ```bash
 python -m venv myvenv
@@ -58,8 +57,10 @@ streamlit run app.py
 - `preprocessor.py`: Preprocessing functions for preparing the data.
 
 ## Demo
+Visit this link for demo, Working of website and model.
+```
 https://youtu.be/M3UYmkB8RLI
-## Screenshots
+```
+[![Watch the video](https://img.youtube.com/vi/M3UYmkB8RLI/maxresdefault.jpg)](https://www.youtube.com/watch?v=M3UYmkB8RLI)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
