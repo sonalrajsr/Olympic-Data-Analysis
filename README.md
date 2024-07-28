@@ -63,8 +63,8 @@ streamlit run app.py
 ## Demo
 Visit this link for demo, Working of website and model.
 ```
-https://youtu.be/M3UYmkB8RLI
+https://youtu.be/VKuOuuAyS3c
 ```
-[![Watch the video](https://img.youtube.com/vi/M3UYmkB8RLI/maxresdefault.jpg)](https://www.youtube.com/watch?v=M3UYmkB8RLI)
+[![Watch the video](https://img.youtube.com/vi/VKuOuuAyS3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=VKuOuuAyS3c)
 
 
